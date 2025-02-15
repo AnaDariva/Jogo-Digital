@@ -3,7 +3,7 @@
 
 **Linguagem de Programação:** C  
 **IDE:** CodeBlocks  
-**Estrutura usada:** Não sei ainda  
+**Estrutura usada:** -
 
 <h2 align="center"> Language: </h2>
 <p align="center">
