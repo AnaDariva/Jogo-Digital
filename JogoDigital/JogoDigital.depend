@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1739925603 source:c:\users\ana\desktop\estrutura de dados 2\av2-analuisadariva\jogodigital\filajogadas.c
+	<stdio.h>
+	<stdlib.h>
+	"filaJogadas.h"
+
+1739924137 c:\users\ana\desktop\estrutura de dados 2\av2-analuisadariva\jogodigital\filajogadas.h
+
+1739933723 source:c:\users\ana\desktop\estrutura de dados 2\av2-analuisadariva\jogodigital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"filaJogadas.h"
+
