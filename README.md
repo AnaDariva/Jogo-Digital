@@ -1,5 +1,5 @@
 # PROJETO C
-*Jogo digital simples feito em C para aula de Estrutura de Dados 2*
+*Jogo digital simples de pedra, papel e terousa feito em C para aula de Estrutura de Dados 2*
 
 **Linguagem de Programação:** C  
 **IDE:** CodeBlocks  
