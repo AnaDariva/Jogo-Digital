@@ -5,8 +5,8 @@
 **IDE:** CodeBlocks  
 **Estrutura usada:** Fila Encadeada
 
-<h2 align="center"> Language: </h2>
-<p align="center">
+<h2 align="left"> Language: </h2>
+<p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
