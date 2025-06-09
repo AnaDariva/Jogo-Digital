@@ -3,7 +3,7 @@
 
 **Linguagem de Programação:** C  
 **IDE:** CodeBlocks  
-**Estrutura usada:** Fila Encadeada
+**Estrutura usada:** Fila encadeada
 
 <h2 align="left"> Language: </h2>
 <p align="left">
