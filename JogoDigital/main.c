@@ -173,3 +173,4 @@ void desenhaEscolha(int escolha)
         printf("  TESOURA  \n");
     }
 }
+
