@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "filaJogadas.h"
-
 struct jogada
 {
     int jogadaUsuario;
