@@ -1,7 +1,7 @@
 # PROJETO C
 *Jogo digital simples de pedra, papel e tesoura feito em C para aula de Estrutura de Dados 2*
 
-**Linguagem de Programação:**  
+**Linguagem de Programação:**  C
 **IDE:** CodeBlocks  
 **Estrutura usada:** Fila encadeada
 
