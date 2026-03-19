@@ -2,7 +2,7 @@
 *Jogo digital simples de pedra, papel e tesoura feito em C para aula de Estrutura de Dados 2*
 
 **IDE:** CodeBlocks  
-**Estrutura usada:** Fila encadeada
+**Estrutura usada:** Fila encadead
 
 <h2 align="left"> Language: </h2>
 <p align="left">
