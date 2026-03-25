@@ -32,4 +32,4 @@ Este projeto consiste em um jogo de **Pedra, Papel e Tesoura** desenvolvido em *
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## 👩‍💻 Autor
-Ana Luisa Dariva Ramos - Acadêmico de Análise e Desenvolvimento de Sistemas na UTFPR-PB
+Ana Luisa Dariva Ramos - Acadêmica de Análise e Desenvolvimento de Sistemas na UTFPR-PB
